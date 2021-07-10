@@ -1,6 +1,4 @@
 /* Author : Balijapelly Pranav
-   Roll No: 1903108
-   Date   : 23/10/2020
    Description: This code is phone directory
 */
 #include<stdio.h>
